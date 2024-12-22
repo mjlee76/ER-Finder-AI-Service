@@ -1,0 +1,7 @@
+fine_tuned_bert/
+fine_tuned_bert_my/
+__pycache__/
+audio
+*.db
+*.ini
+api_key.txt
